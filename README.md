@@ -1,2 +1,2 @@
-# sputnik
+
 sputnik testovoe
